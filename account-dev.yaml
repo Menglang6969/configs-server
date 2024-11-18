@@ -1,5 +1,5 @@
 account:
-  msg: "Welcome to Menglang Bank Account Dev File system application"
+  msg: "Welcome to Menglang Bank Account Dev Git application"
   build-version: 3
   mailDetails:
     hostName: menglanghuo.dev@gmail.com

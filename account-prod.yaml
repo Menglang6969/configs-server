@@ -1,5 +1,5 @@
 account:
-  msg: "Welcome to Menglang Bank Account Production File system application"
+  msg: "Welcome to Menglang Bank Account Production Git application"
   build-version: 3
   mailDetails:
     hostName: menglanghuo.prod@gmail.com
