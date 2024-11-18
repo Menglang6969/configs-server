@@ -1,0 +1,11 @@
+account:
+  msg: "Welcome to Menglang Bank Account Default File system application"
+  build-version: 3
+  mailDetails:
+    hostName: menglanghuo@gmail.com
+    port: 9000
+    from: huomenglang@gmail.com
+    subject: Your account details from Menglang bank
+  activeBranches[0]: Phnom Penh
+  activeBranches[1]: Kandal
+  activeBranches[2]: Kampong Cham

@@ -1,0 +1,11 @@
+account:
+  msg: "Welcome to Menglang Bank Account Dev File system application"
+  build-version: 3
+  mailDetails:
+    hostName: menglanghuo.dev@gmail.com
+    port: 9001
+    from: huomenglang.dev@gmail.com
+    subject: Your account details from Menglang bank
+  activeBranches[0]: Battambang
+  activeBranches[1]: Kandal
+  activeBranches[2]: Kampong Cham

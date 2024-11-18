@@ -1,0 +1,11 @@
+account:
+  msg: "Welcome to Menglang Bank Account Production File system application"
+  build-version: 3
+  mailDetails:
+    hostName: menglanghuo.prod@gmail.com
+    port: 9002
+    from: huomenglang.prod@gmail.com
+    subject: Your account details from Menglang bank
+  activeBranches[0]: Siem Reab
+  activeBranches[1]: Kandal
+  activeBranches[2]: Kampong Cham
